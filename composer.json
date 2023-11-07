@@ -1,5 +1,5 @@
 {
-    "name": "webignition/website-sitemap-finder",
+    "name": "walexanderos/website-sitemap-finder",
     "description": "Finds the sitemap(.xml) for a given website",
     "keywords": ["sitemap"],
     "homepage": "https://github.com/webignition/website-sitemap-finder",
